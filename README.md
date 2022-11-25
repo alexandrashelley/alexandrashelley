@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![alt text](https://github.com/[alexandrashelley]/[alexandrashelley]/blob/[branch]/alexicon.png?raw=true)
+![alt text](https://github.com/[alexandrashelley]/[alexandrashelley]/blob/[main]/alexicon.png?raw=true)
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
