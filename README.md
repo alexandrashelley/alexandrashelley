@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/alexandrashelley/alexandrashelley/blob/main/alexicon.png"width="450">
+<img src="https://github.com/alexandrashelley/alexandrashelley/alexicon.png"width="450">
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
