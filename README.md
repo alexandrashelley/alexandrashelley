@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="alexicon.png" alt="me" width="200"/>
+<img src="alexicon.png" alt="me" width="250"/>
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
