@@ -17,7 +17,7 @@
 
 | Project                | Description                  | Time taken                     | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
-| Travel-Lite ([Repo])(https://github.com/alexandrashelley/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions. | 10 days | React, Tailwind, Cypress, Google API, Travel advisor API |
+| Travel-Lite [(Repo)](https://github.com/alexandrashelley/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions. | 10 days | React, Tailwind, Cypress, Google API, Travel advisor API |
 | Take Note [Live](https://take-note-omega.vercel.app/), [Repo](https://github.com/alexandrashelley/take-note) | A simple note-taking app I made to practice API fetching and posting. | 10+ days | JavaScript, Node, Jest, HTML, CSS | 
 | Bank Tech Test [Repo](https://github.com/alexandrashelley/bank-tech-test) | A tech test that illustrates clean code and TDD. | 2 days | JavaScript, Jest | 
 | Slugs-Acebook [Repo](https://github.com/naomischlosser/acebook-node-slugs)| A social media web app with a weirdly familiar name... | 10 days | Node, Express, MongoDB, Cypress, Jest |
