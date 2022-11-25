@@ -1,7 +1,6 @@
 <div align="center">
 
-
-![me](alexicon.png)
+<img src="alexicon.png" alt="me" width="160"/>
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
