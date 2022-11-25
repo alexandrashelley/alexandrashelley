@@ -1,6 +1,6 @@
 <div align="center">
 
-![altext](img/alexicon.png)
+<img src="https://github.com/alexandrashelley/alexandrashelley/blob/main/alexicon.png"width="450">
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
