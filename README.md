@@ -1,5 +1,7 @@
 <div align="center">
 
+(https://github.com/[alexandrashelley]/[alexandrashelley]/blob/[main]/alexicon.png)
+
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
 ### [PDF CV]() | [Github CV](https://github.com/alexandrashelley/CV) | [Linkedin](https://www.linkedin.com/in/alexandra-shelley-022a15148/)</div>
