@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Alex
 ### Junior Fullstack Software Developer
-### [PDF CV]() | [Github CV](https://github.com/alexandrashelley/CV) | [Linkedin](https://www.linkedin.com/in/alexandra-shelley-022a15148/)</div>
+### [PDF CV](https://github.com/alexandrashelley/CV/blob/master/Alexandra%20Shelley.pdf) | [Github CV](https://github.com/alexandrashelley/CV) | [Linkedin](https://www.linkedin.com/in/alexandra-shelley-022a15148/)</div>
 
 ## Some things about me
 <p>🎓 Recent graduate of a 16-week intensive software development bootcamp with Makers Academy (Oct 2022).</p>
